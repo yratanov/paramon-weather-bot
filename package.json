@@ -1,0 +1,29 @@
+{
+  "name": "paramon-bot",
+  "version": "1.0.0",
+  "description": "simple funny bot",
+  "main": "index.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "telegraf": "^3.21.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yratanov/paramon-bot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot"
+  ],
+  "author": "Yuri Ratanov <organium@gmail.com> (http://organium.blogspot.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yratanov/paramon-bot/issues"
+  },
+  "homepage": "https://github.com/yratanov/paramon-bot#readme"
+}
